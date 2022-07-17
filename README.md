@@ -1,12 +1,11 @@
 # Minor-Project--Flask
 <br>
-<br>
-# FULL STACK DEVELOPMENT WITH PYTHON- TECHWAVE 
+# FULL STACK DEVELOPMENT WITH PYTHON- TECHWAVE <br>
 Hi I made this project TO_DO List during the Full_Stack development with Python Training program, conducted by <b> TechWave
 </b>.
-##About the project
-TO_DO List is a website were we can store information about the task we ant to complete,so that we dont forget to do any task.
-<br>After completing the task we can delete the task.
+##About the project<br>
+TO_DO List is a simple website were we can store information about the task we want to complete,so that we don't forget to do any task.
+After completing the task we can delete the task.
 
 
 <br>
@@ -16,7 +15,7 @@ TO_DO List is a website were we can store information about the task we ant to c
 <br>3. sqlite
 <br>4. HTML & CSS
 
-
+<br>
 Follow TechWave on: 
 <br>LinkedIn ( https://www.linkedin.com/company/techwave-courses/ )
 <br>Instagram ( https://www.instagram.com/techwave.courses/ )
