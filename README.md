@@ -16,7 +16,9 @@ After completing the task we can delete the task.
 <br>
 <br>
 Follow TechWave on: 
-<br>LinkedIn ( https://www.linkedin.com/company/techwave-courses/ )
+<br>
+<li><a href=
+"https://www.linkedin.com/company/techwave-courses/">LinkedIn</a>
 <br>Instagram ( https://www.instagram.com/techwave.courses/ )
 <br><br>
 Follow me on: 
