@@ -1,14 +1,14 @@
-#Minor-Project--Flask
+# Minor-Project--Flask
 <br>
-#FULL STACK DEVELOPMENT WITH PYTHON- TECHWAVE <br>
+# FULL STACK DEVELOPMENT WITH PYTHON- TECHWAVE <br>
 Hi I made this project TO_DO List during the Full_Stack development with Python Training program, conducted by <b> TechWave
 </b>.<br><br>
-##About the project<br>
+## About the project<br>
 TO_DO List is a simple website were we can store information about the task we want to complete,so that we don't forget to do any task.
 After completing the task we can delete the task.
 <br>
 <br>
-##Tech Stack used;
+## Tech Stack used;
 <br>1. Flask
 <br>2. VSCode Editor
 <br>3. sqlite
