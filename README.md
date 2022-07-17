@@ -19,7 +19,12 @@ Follow TechWave on:
 <br>
 <li><a href=
 "https://www.linkedin.com/company/techwave-courses/">LinkedIn</a>
-<br>Instagram ( https://www.instagram.com/techwave.courses/ )
+<br>
+<li><a href="https://www.instagram.com/techwave.courses/"
+>Instagram</a>
+
 <br><br>
 Follow me on: 
-<br>LinkedIn ( www.linkedin.com/in/know-nikhila-k-s )
+<br>
+<li><a href=
+"www.linkedin.com/in/know-nikhila-k-s">LinkedIn</a>
