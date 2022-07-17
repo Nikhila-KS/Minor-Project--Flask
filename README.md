@@ -3,7 +3,7 @@
 # FULL STACK DEVELOPMENT WITH PYTHON- TECHWAVE <br>
 Hi I made this project TO_DO List during the Full_Stack development with Python Training program, conducted by <b> TechWave
 </b>.<br><br>
-##About the project<br>
+## About the project<br>
 TO_DO List is a simple website were we can store information about the task we want to complete,so that we don't forget to do any task.
 After completing the task we can delete the task.
 <br>
@@ -27,4 +27,4 @@ Follow TechWave on:
 Follow me on: 
 <br>
 <li><a href=
-"www.linkedin.com/in/know-nikhila-k-s">LinkedIn</a>
+"https://www.linkedin.com/in/know-nikhila-k-s/">LinkedIn</a>
