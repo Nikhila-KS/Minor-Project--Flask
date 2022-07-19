@@ -3,7 +3,7 @@
 Hi I made this project TO_DO List during the Full_Stack development with Python Training program, conducted by  TechWave
 
 ## About the project 
-TO_DO List is a simple website were we can store information about the task we want to complete,so that we don't forget to do any task.
+TO_DO List is a simple website where we can store information about the task we want to complete,so that we don't forget to do any task.
 After completing the task we can delete the task.
 <br>
 <br>
